@@ -1,2 +1,6 @@
-# TCgithubDemo
-git/github app demo HW for tim corey git course
+# Git Demo Repo
+This is a demo app for the Git course
+
+## Roadmap
+ * Add new features
+ * Fix the bugs
